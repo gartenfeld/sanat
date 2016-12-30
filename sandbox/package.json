@@ -1,0 +1,19 @@
+{
+  "name": "sanat-sandbox",
+  "version": "0.0.1",
+  "description": "Experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello World!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gartenfeld/sanat.git"
+  },
+  "author": "David Rosson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gartenfeld/sanat/issues"
+  },
+  "homepage": "https://github.com/gartenfeld/sanat#readme"
+}
