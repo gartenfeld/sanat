@@ -1,0 +1,197 @@
+# sentence-text: Hän on hyväluontoinen mies.
+1	hän	hän	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+3	hyväluontoinen	hyvä#luo#toinen	NOUN	N	Case=Nom|Number=Sing	_	_	_	_
+4	mies	mies	NOUN	N	Case=Nom|Number=Sing	_	_	_	_
+5	.	.	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Hän oli puhkeamaisillaan kyyneliin.
+1	hän	hän	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+2	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+3	puhkeamaisillaan	puhjeta	VERB	V	Person[psor]=3|Voice=Act	_	_	_	_
+4	kyyneliin	kyy#neli	NOUN	N	Case=Ill|Number=Sing	_	_	_	_
+5	.	.	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Minkä numeroiset kengät haluatte?
+1	minkä	mikä	PRON	Pron	Case=Gen|PronType=Int	_	_	_	_
+2	numeroiset	numeroinen	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+3	kengät	kenkä	NOUN	N	Case=Nom|Number=Plur	_	_	_	_
+4	haluatte	haluta	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+5	?	?	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Hänen lapsensa kävivät taidepainotteista koulua.
+1	hänen	hän	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+2	lapsensa	lapsi	NOUN	N	Case=Nom|Number=Plur|Person[psor]=3	_	_	_	_
+3	kävivät	käydä	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	taidepainotteista	taide#-painotteinen	ADJ	A	Case=Par|Degree=Pos|Number=Sing	_	_	_	_
+5	koulua	koulu	NOUN	N	Case=Par|Number=Sing	_	_	_	_
+6	.	.	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Hinnat sisältävät postikulut Isossa-Britanniassa ja Pohjois-Irlannissa.
+1	hinnat	hinta	NOUN	N	Case=Nom|Number=Plur	_	_	_	_
+2	sisältävät	sisältää	VERB	V	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+3	postikulut	posti#kulku	NOUN	N	Case=Nom|Number=Plur	_	_	_	_
+4	Isossa-Britanniassa	Iso-Britannia	PROPN	N	Case=Ine|Number=Sing	_	_	_	_
+5	ja	ja	CONJ	C	_	_	_	_	_
+6	Pohjois-Irlannissa	Pohjoinen#Irlanti	PROPN	N	Case=Ine|Number=Sing	_	_	_	_
+7	.	.	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Väri muuttui punaisesta violetiksi.
+1	väri	väri	NOUN	N	Case=Nom|Number=Sing	_	_	_	_
+2	muuttui	muuttua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+3	punaisesta	punainen	ADJ	A	Case=Ela|Degree=Pos|Number=Sing	_	_	_	_
+4	violetiksi	violetti	ADJ	A	Case=Tra|Degree=Pos|Number=Sing	_	_	_	_
+5	.	.	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Laatu vaihtelee tyydyttävästä käyttökelvottomaan.
+1	Laatu	Laatu	PROPN	N	Case=Nom|Number=Sing	_	_	_	_
+2	vaihtelee	vaihdella	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+3	tyydyttävästä	tyydyttävä	ADJ	A	Case=Ela|Degree=Pos|Number=Sing	_	_	_	_
+4	käyttökelvottomaan	käyttö#kelvoton	ADJ	A	Case=Ill|Degree=Pos|Number=Sing	_	_	_	_
+5	.	.	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Olen seitsemänvuotias.
+1	Olen	Ole	PROPN	N	Case=Gen|Number=Sing	_	_	_	_
+2	seitsemänvuotias	seitsemän-#-vuotias	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
+3	.	.	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Aerobic tekee hyvää kunnolle.
+1	aerobic	aerobic	NOUN	N	Case=Nom|Number=Sing	_	_	_	_
+2	tekee	tehdä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+3	hyvää	hyvä	ADJ	A	Case=Par|Degree=Pos|Number=Sing	_	_	_	_
+4	kunnolle	kunto	NOUN	N	Case=All|Number=Sing	_	_	_	_
+5	.	.	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Ai, joko sinä lähdet?
+1	ai	ai	INTJ	Interj	_	_	_	_	_
+2	,	,	PUNCT	Punct	_	_	_	_	_
+3	joko	jo	ADV	Adv	Clitic=Ko	_	_	_	_
+4	sinä	se	PRON	Pron	Case=Ess|Number=Sing|PronType=Dem	_	_	_	_
+5	lähdet	lähteä	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+6	?	?	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Ai! Se sattui!
+1	ai	ai	INTJ	Interj	_	_	_	_	_
+2	!	!	PUNCT	Punct	_	_	_	_	_
+3	se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	_	_	_	_
+4	sattui	sattua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+5	!	!	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Huoneala on 20 neliömetriä.
+1	huoneala	huone#ala	NOUN	N	Case=Nom|Number=Sing	_	_	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+3	20	20	NUM	Num	NumType=Card	_	_	_	_
+4	neliömetriä	neliö#-metri	NOUN	N	Case=Par|Number=Sing	_	_	_	_
+5	.	.	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Yritys myöntää, että se on menettämässä alaa.
+1	yritys	yritys	NOUN	N	Case=Nom|Number=Sing	_	_	_	_
+2	myöntää	myöntää	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	_	_	_	_
+3	,	,	PUNCT	Punct	_	_	_	_	_
+4	että	että	SCONJ	C	_	_	_	_	_
+5	se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	_	_	_	_
+6	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+7	menettämässä	menettää	VERB	V	Case=Ine|Degree=Pos|Number=Sing	_	_	_	_
+8	alaa	ala	NOUN	N	Case=Par|Number=Sing	_	_	_	_
+9	.	.	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Hän ei sekaannu asioihin, jotka jäävät hänen toiminta-alansa ulkopuolelle.
+1	hän	hän	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+2	ei	ei	VERB	V	Negative=Neg|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	_	_	_	_
+3	sekaannu	sekaantua	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	_
+4	asioihin	asia	NOUN	N	Case=Ill|Number=Plur	_	_	_	_
+5	,	,	PUNCT	Punct	_	_	_	_	_
+6	jotka	joka	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	_	_	_	_
+7	jäävät	jäädä	VERB	V	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+8	hänen	hän	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+9	toiminta-alansa	toiminta#ala	NOUN	N	Case=Nom|Number=Plur|Person[psor]=3	_	_	_	_
+10	ulkopuolelle	ulko-#puoli	NOUN	N	Case=All|Number=Sing	_	_	_	_
+11	.	.	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Konferenssi on avoinna kaikille alan ihmisille.
+1	konferenssi	konferenssi	NOUN	N	Case=Nom|Number=Sing	_	_	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+3	avoinna	avoinna	ADV	Adv	_	_	_	_	_
+4	kaikille	kaikki	PRON	Pron	Case=All|Number=Plur|PronType=Ind	_	_	_	_
+5	alan	ala	NOUN	N	Case=Gen|Number=Sing	_	_	_	_
+6	ihmisille	ihminen	NOUN	N	Case=All|Number=Plur	_	_	_	_
+7	.	.	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Yhtiöt samalla alalla kilpailevat kiihkeästi keskenään.
+1	yhtiöt	yhtiö	NOUN	N	Case=Nom|Number=Plur	_	_	_	_
+2	samalla	sama	PRON	Pron	Case=Ade|Number=Sing|PronType=Ind	_	_	_	_
+3	alalla	ala	NOUN	N	Case=Ade|Number=Sing	_	_	_	_
+4	kilpailevat	kilpaileva	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+5	kiihkeästi	kiihkeästi	ADV	Adv	Derivation=Sti	_	_	_	_
+6	keskenään	keskenään	ADP	Adp	Person[psor]=3	_	_	_	_
+7	.	.	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Millä alalla olet?
+1	millä	mikä	PRON	Pron	Case=Ade|PronType=Int	_	_	_	_
+2	alalla	ala	NOUN	N	Case=Ade|Number=Sing	_	_	_	_
+3	olet	olla	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+4	?	?	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Alallani on hyvä palkkataso.
+1	Alallani	Ala	PROPN	N	Case=Ade|Number=Sing|Number[psor]=Sing|Person[psor]=1	_	_	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+3	hyvä	hyvä	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
+4	palkkataso	palkka#taso	NOUN	N	Case=Nom|Number=Sing	_	_	_	_
+5	.	.	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Rahoitus on hänen alaansa.
+1	rahoitus	rahoitus	NOUN	N	Case=Nom|Number=Sing	_	_	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+3	hänen	hän	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+4	alaansa	ala	NOUN	N	Case=Ill|Number=Sing|Person[psor]=3	_	_	_	_
+5	.	.	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Tämä ei ole minun alaani.
+1	tämä	tämä	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	_	_	_	_
+2	ei	ei	VERB	V	Negative=Neg|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	_	_	_	_
+3	ole	olla	AUX	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	_
+4	minun	minä	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	_	_	_	_
+5	alaani	ala	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=1	_	_	_	_
+6	.	.	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Hänen alahuulensa alkoi vapista.
+1	hänen	hän	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+2	alahuulensa	ala-#huuli	NOUN	N	Case=Nom|Number=Plur|Person[psor]=3	_	_	_	_
+3	alkoi	alkaa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	vapista	vapista	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	_	_	_	_
+5	.	.	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Hän veti alahyllystä esiin sarjakuvakirjan.
+1	hän	hän	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+2	veti	vetää	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+3	alahyllystä	ala-#hylly	NOUN	N	Case=Ela|Number=Sing	_	_	_	_
+4	esiin	esiin	ADV	Adv	_	_	_	_	_
+5	sarjakuvakirjan	sarja#kuva#kirja	NOUN	N	Case=Gen|Number=Sing	_	_	_	_
+6	.	.	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Laita se laatikko alas ja kuuntele!
+1	Laita	Lai	PROPN	N	Case=Par|Number=Sing	_	_	_	_
+2	se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	_	_	_	_
+3	laatikko	laatikko	NOUN	N	Case=Nom|Number=Sing	_	_	_	_
+4	alas	alas	ADV	Adv	_	_	_	_	_
+5	ja	ja	CONJ	C	_	_	_	_	_
+6	kuuntele	kuu#tele	NOUN	N	Case=Nom|Number=Sing	_	_	_	_
+7	!	!	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Hän meni alas ja jäin yksin laivan kannelle.
+1	hän	hän	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+2	meni	mennä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+3	alas	alas	ADV	Adv	_	_	_	_	_
+4	ja	ja	CONJ	C	_	_	_	_	_
+5	jäin	jää	NOUN	N	Case=Ins|Number=Plur	_	_	_	_
+6	yksin	yksi	NUM	Num	Case=Ins|Number=Plur|NumType=Card	_	_	_	_
+7	laivan	laiva	NOUN	N	Case=Gen|Number=Sing	_	_	_	_
+8	kannelle	kannella	VERB	V	Connegative=Yes|Mood=Potn|VerbForm=Fin	_	_	_	_
+9	.	.	PUNCT	Punct	_	_	_	_	_
+
+# sentence-text: Luettele sanat ylhäältä alas.
+1	luettele	luetella	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	_
+2	sanat	sana	NOUN	N	Case=Nom|Number=Plur	_	_	_	_
+3	ylhäältä	ylhäältä	ADV	Adv	_	_	_	_	_
+4	alas	alas	ADV	Adv	_	_	_	_	_
+5	.	.	PUNCT	Punct	_	_	_	_	_
